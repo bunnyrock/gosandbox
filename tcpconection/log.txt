@@ -1,0 +1,8 @@
+2019/03/17 18:50:12 starting tcp server...
+2019/03/17 18:50:12 Wait for connection
+2019/03/17 18:50:19 Tcp session complete
+2019/03/17 18:50:19 shoutdown tcp server
+2019/03/17 18:52:07 starting tcp server...
+2019/03/17 18:52:07 Wait for connection
+2019/03/17 18:52:09 Tcp session complete
+2019/03/17 18:52:09 shoutdown tcp server
