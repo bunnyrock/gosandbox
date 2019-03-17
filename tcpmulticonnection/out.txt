@@ -1,0 +1,17 @@
+2019/03/17 20:56:01 User connected:  user_%d0  localAddr:  127.0.0.1:8080  remoteAddr:  127.0.0.1:41824
+2019/03/17 20:58:53 User connected:  user_0  localAddr:  127.0.0.1:8080  remoteAddr:  127.0.0.1:41872
+2019/03/17 20:59:02 user_0 : shit
+2019/03/17 20:59:31 User connected:  user_1  localAddr:  127.0.0.1:8080  remoteAddr:  127.0.0.1:41874
+2019/03/17 21:00:03 User connected:  user_2  localAddr:  127.0.0.1:8080  remoteAddr:  127.0.0.1:41878
+2019/03/17 21:00:14 user_2 : piss
+2019/03/17 21:00:19 user_1 : fuck
+2019/03/17 21:00:25 user_2 : cunt
+2019/03/17 21:00:36 user_0 : cocksucker
+2019/03/17 21:00:44 user_2 : motherfucker
+2019/03/17 21:00:49 user_1 : twat
+2019/03/17 21:00:55 user_1 : bue
+2019/03/17 21:01:00 User  user_1  close session
+2019/03/17 21:01:04 User  user_0  close session
+2019/03/17 21:01:09 User  user_2  close session
+2019/03/17 21:01:39 User connected:  user_3  localAddr:  127.0.0.1:8080  remoteAddr:  127.0.0.1:41886
+2019/03/17 21:01:45 User  user_3  close session
